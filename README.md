@@ -35,9 +35,12 @@ Top module is the top that no water splashes out. For the smart version is the t
 
 <img src="https://user-images.githubusercontent.com/82802996/116688827-87f4aa80-a9b7-11eb-8f5f-8d40f75160a6.png" width="20%">
 
-The Water spreader is the part which spreads the water in all directions. This part must maybe get a little modified if you need more water pressure
-with which it splashes out. You must modify that the tube is closer to the upper part of the water spreader you need to move the surfaces (See Picture). The Water
-reservoir is a bit more different to print because it must be water safe. More to that later. 
+The Water spreader is the part which spreads the water in all directions.This part must maybe get a little modified if you need more water pressure
+with which it splashes out. You must modify that the tube is closer to the upper part of the water spreader you need to move the surfaces (See Picture).
+
+<img src="https://user-images.githubusercontent.com/82802996/116689052-e02bac80-a9b7-11eb-9438-c348cc6b62e4.png" width="20%">
+
+The Water reservoir is a bit more different to print because it must be water safe. More to that later. 
 The advanced module is for more space efficiency because you have now on your standard module place for 5 plants so you get the max out of your module.
 
 <img src="https://user-images.githubusercontent.com/82802996/116688301-d2295c00-a9b6-11eb-9f66-7c991b32dd5a.png" width="20%">
