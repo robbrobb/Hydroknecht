@@ -5,11 +5,12 @@ General Stuff
 
 
 Hydroknecht is a smart modular 3d printed Hydroponicsystem which is also open source. Feel free to modify it for your preferences and components. It is realy
-customizeable. It has a smart version and a commen version. The smart version has some handy features like controlling the system whith a web interface. It has a PH
--sensor, temperature sensor and a light sensor. The Waterpump is also controlled over your web interface for regular switching on of the pump. The common version is
-without electronics (apart from the water pump). But first of all we should look at our system and how it works. So Hydroknecht is a vertical rain tower hydroponicsystem which is
-good for fast growing of plants.
-![Raintower](https://user-images.githubusercontent.com/82802996/116686545-40b8ea80-a9b4-11eb-888d-db138a499990.png)
+customizeable. It has a smart version and a commen version. The smart version has some handy features like controlling the system whith a web interface. 
+It has a PH-sensor, temperature sensor and a light sensor. The Waterpump is also controlled over your web interface for regular switching on of the pump. The common 
+version is without electronics (apart from the water pump). But first of all we should look at our system and how it works. So Hydroknecht is a vertical rain tower 
+hydroponicsystem which is good for fast growing of plants.
+
+<img src="https://user-images.githubusercontent.com/82802996/116686545-40b8ea80-a9b4-11eb-888d-db138a499990.png" width="20%">
 
 The water is in a reservoir at the bottom of the tower and get pumped with the water pump to the top and it rains down which
 give the plants water. In the water are nutrients and minerals for the plants because the plants dont get minerals through the soil. The plants are in netcups which are filled with 
@@ -22,7 +23,7 @@ Modules
 
 It has diffrent modules but we talk first about the standard module. So the standard module ist a main module for 3 plants. It also 
 has a module for 5 plants but later more to that. So the standard module has 2 version these are pretty much the same but with a few differences.
-![Standard_Module](https://user-images.githubusercontent.com/82802996/116686701-7c53b480-a9b4-11eb-8a2a-a6dd4da0ad0f.png)
+<img src="https://user-images.githubusercontent.com/82802996/116686701-7c53b480-a9b4-11eb-8a2a-a6dd4da0ad0f.png" width="20%">
 
 You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place. 
 The shower module isthe module which let the water rain down. It hold the water spreader. This module got stacked beetween the standard module and the top module. The
