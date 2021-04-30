@@ -1,3 +1,4 @@
+
 # Hydroknecht
 
 
@@ -8,7 +9,9 @@ Hydroknecht is a smart modular 3d printed Hydroponicsystem which is also open so
 customizeable. It has a smart version and a commen version. The smart version has some handy features like controlling the system whith a web interface. It has a PH
 -sensor, temperature sensor and a light sensor. The Waterpump is also controlled over your web interface for regular switching on of the pump. The common version is
 without electronics (apart from the water pump). But first of all we should look at our system and how it works. So Hydroknecht is a vertical rain tower hydroponicsystem which is
-good for fast growing of plants. The water is in a reservoir at the bottom of the tower and get pumped with the water pump to the top and it rains down which
+good for fast growing of plants.
+![Raintower](https://user-images.githubusercontent.com/82802996/116686545-40b8ea80-a9b4-11eb-888d-db138a499990.png)
+The water is in a reservoir at the bottom of the tower and get pumped with the water pump to the top and it rains down which
 give the plants water. In the water are nutrients and minerals for the plants because the plants dont get minerals through the soil. The plants are in netcups which are filled with 
 rockwool or coconut coir which is a good substrate. The rain drops on the roots togive them Water. This planting system is more bio because you dont need pesticides and 
 you can use bio nutrients so your food is 100% Bio. 
