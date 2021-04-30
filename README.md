@@ -1,19 +1,18 @@
 <h1> Hydroknecht </h1>
 
 
-<h3> Content directory 1§ </h3>
+<h3> Content directory  </h3>
 
 <ul>
-<li>Content directory 1§</li>
-<li>General Stuff 2§</li>
-<li>Modules 3§</li>
-<li>Differences between smart and common version 4§</li>
-<li>The reservoir 5§</li>
-<li>Electronics 6§</li>
-<li>Components 7§</li>
+<li>General Stuff </li>
+<li>Modules </li>
+<li>Differences between smart and common version </li>
+<li>The reservoir </li>
+<li>Electronics </li>
+<li>Components </li>
 </ul> 
 
-<h3> General Stuff 2§ </h3>
+<h3> General Stuff </h3>
 
 
 Hydroknecht is a smart modular 3d printed Hydroponicsystem which is also open source. Feel free to modify it for your preferences and components. It is realy
@@ -30,7 +29,7 @@ rockwool or coconut coir which is a good substrate. The rain drops on the roots 
 you can use bio nutrients so your food is 100% Bio. 
 
 
-<h3> Modules 3§</h3>
+<h3> Modules </h3>
 
 
 It has diffrent modules but we talk first about the standard module. So the standard module ist a main module for 3 plants. It also 
@@ -63,7 +62,7 @@ have versions with a cable channel. It also has a cover cap that no water drops 
 holds the plant and the substrate in place and also lets the roots grow out freely.
 
 
-<h3> Differences between smart and common version 4§</h3>
+<h3> Differences between smart and common version </h3>
 
 
 So the smart version is obviously smart and has some handy features. The smart version works with a ESP 8266. The smart version also controls the pump and activates it at fixed time 
@@ -71,7 +70,7 @@ intervals. For the common version I would recommend a time socket or a smart soc
 aditional cable duct inside to pass the cables through the tower. The electric brain from the smart version is in the top part. But more to that in the Electronic part.
 
 
-<h3> The reservoir 5§</h3>
+<h3> The reservoir </h3>
 
 
 So the reservoir is a little bit tricky. You must get it water safe that it not leak. You can also use a bucket which helps to safe time and filament but you dont get the overall 
@@ -81,8 +80,8 @@ Also a great way to get water safe results is epoxy resin. It is a bit anoying t
 chemicals like acetone. More Information about Water safe 3d prints are in the helpful blo post from prusaprinters.
 
 
-<h3> Electronics 6§</h3>
+<h3> Electronics </h3>
 
 
-<h3> Components 7§</h3>
+<h3> Components </h3>
 
