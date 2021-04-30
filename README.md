@@ -10,16 +10,8 @@
 <li>Differences between smart and common version 4§</li>
 <li>The reservoir 5§</li>
 <li>Electronics 6§</li>
-<li> omponents 7§</li>
+<li>Components 7§</li>
 </ul> 
-
-
-
-
-
-
-
-
 
 <h3> General Stuff 2§ </h3>
 
