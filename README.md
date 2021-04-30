@@ -23,17 +23,25 @@ Modules
 
 It has diffrent modules but we talk first about the standard module. So the standard module ist a main module for 3 plants. It also 
 has a module for 5 plants but later more to that. So the standard module has 2 version these are pretty much the same but with a few differences.
+
 <img src="https://user-images.githubusercontent.com/82802996/116686701-7c53b480-a9b4-11eb-8a2a-a6dd4da0ad0f.png" width="20%">
-You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place. 
+
+You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place.
+
 <img src="https://user-images.githubusercontent.com/82802996/116688579-33512f80-a9b7-11eb-9d30-cfd7ed550966.png" width="20%">
+
 The shower module is the module which let the water rain down. It hold the water spreader. This module got stacked beetween the standard module and the top module. The
 Top module is the top that no water splashes out. For the smart version is the top part more important becaus it holds the electronics but an extended explanation below.
+
 <img src="https://user-images.githubusercontent.com/82802996/116688827-87f4aa80-a9b7-11eb-8f5f-8d40f75160a6.png" width="20%">
+
 The Water spreader is the part which spreads the water in all directions. This part must maybe get a little modified if you need more water pressure
 with which it splashes out. You must modify that the tube is closer to the upper part of the water spreader you need to move the surfaces (See Picture). The Water
 reservoir is a bit more different to print because it must be water safe. More to that later. 
 The advanced module is for more space efficiency because you have now on your standard module place for 5 plants so you get the max out of your module.
+
 <img src="https://user-images.githubusercontent.com/82802996/116688301-d2295c00-a9b6-11eb-9f66-7c991b32dd5a.png" width="20%">
+
 You have two different types of feets for the tower. One which is more sleeker and more a look upgrade. The second stand foot gives more hold for larger towers. For two feets it also
 have versions with a cable channel. It also has a cover cap that no water drops out of the reservoir. This model works for all versions. And finaly the last module the Netcup. It 
 holds the plant and the substrate in place and also lets the roots grow out freely.
