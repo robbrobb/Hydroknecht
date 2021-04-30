@@ -1,7 +1,7 @@
-# Hydroknecht
+<h1> Hydroknecht </h1>
 
 
-General Stuff
+<h3> General Stuff </h3>
 
 
 Hydroknecht is a smart modular 3d printed Hydroponicsystem which is also open source. Feel free to modify it for your preferences and components. It is realy
@@ -18,7 +18,7 @@ rockwool or coconut coir which is a good substrate. The rain drops on the roots 
 you can use bio nutrients so your food is 100% Bio. 
 
 
-Modules
+<h3> Modules </h3>
 
 
 It has diffrent modules but we talk first about the standard module. So the standard module ist a main module for 3 plants. It also 
@@ -31,7 +31,8 @@ You stack them staggered so alway the first module and then the second and onand
 <img src="https://user-images.githubusercontent.com/82802996/116688579-33512f80-a9b7-11eb-9d30-cfd7ed550966.png" width="20%">
 
 The shower module is the module which let the water rain down. It hold the water spreader. This module got stacked beetween the standard module and the top module. The
-Top module is the top that no water splashes out. For the smart version is the top part more important becaus it holds the electronics but an extended explanation below.
+Top module is the top that no water splashes out. For the smart version is the top part more important 
+it holds the electronics but an extended explanation below.
 
 <img src="https://user-images.githubusercontent.com/82802996/116688827-87f4aa80-a9b7-11eb-8f5f-8d40f75160a6.png" width="20%">
 
@@ -50,7 +51,7 @@ have versions with a cable channel. It also has a cover cap that no water drops 
 holds the plant and the substrate in place and also lets the roots grow out freely.
 
 
-Differences between smart and common version
+<h3> Differences between smart and common version </h3>
 
 
 So the smart version is obviously smart and has some handy features. The smart version works with a ESP 8266. The smart version also controls the pump and activates it at fixed time 
@@ -58,7 +59,7 @@ intervals. For the common version I would recommend a time socket or a smart soc
 aditional cable duct inside to pass the cables through the tower. The electric brain from the smart version is in the top part. But more to that in the Electronic part.
 
 
-The reservoir
+<h3> The reservoir </h3>
 
 
 So the reservoir is a little bit tricky. You must get it water safe that it not leak. You can also use a bucket which helps to safe time and filament but you dont get the overall 
@@ -68,8 +69,8 @@ Also a great way to get water safe results is epoxy resin. It is a bit anoying t
 chemicals like acetone. More Information about Water safe 3d prints are in the helpful blo post from prusaprinters.
 
 
-The Electronics
+<h3> Electronics </h3>
 
 
-Components 
+<h3> Components </h3>
 
