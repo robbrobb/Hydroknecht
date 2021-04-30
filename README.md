@@ -1,4 +1,3 @@
-
 # Hydroknecht
 
 
@@ -22,8 +21,10 @@ Modules
 
 
 It has diffrent modules but we talk first about the standard module. So the standard module ist a main module for 3 plants. It also 
-has a module for 5 plants but later more to that. So the standard module has 2 version these are pretty much the same but with a few
-differences. You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place. 
+has a module for 5 plants but later more to that. So the standard module has 2 version these are pretty much the same but with a few differences.
+![Standard_Module](https://user-images.githubusercontent.com/82802996/116686701-7c53b480-a9b4-11eb-8a2a-a6dd4da0ad0f.png)
+
+You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place. 
 The shower module isthe module which let the water rain down. It hold the water spreader. This module got stacked beetween the standard module and the top module. The
 Top module is the topthat no water splashes out. For the smart version is the top part more important becaus it holds the electronics but an extended 
 explanation below. The Water spreader isthe part which spreads the water in all directions. This part must maybe get a little modified if you need more water pressure
