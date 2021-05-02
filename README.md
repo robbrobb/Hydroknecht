@@ -10,6 +10,9 @@
 <li>The reservoir </li>
 <li>Electronics </li>
 <li>Components </li>
+<li>Assembly </li>
+<li>Slicer settings </li>
+
 </ul> 
 
 <h3> General Stuff </h3>
@@ -84,4 +87,10 @@ chemicals like acetone. More Information about Water safe 3d prints are in the h
 
 
 <h3> Components </h3>
+
+
+<h3> Assembly </h3>
+
+
+<h3> Slicer settings </h3>
 
