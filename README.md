@@ -7,24 +7,16 @@ This enables control over pumps and lights, aswell as the reception of data from
 
 - [Watering Mechanism](#watering-mechanism)
 - [Modules](#modules)
+- [Printing Instructions](#printing-instructions)
+- [Assembly Instructions](#assembly-instructions)
 - [PCB](#pcb)
 - [MQTT-Commands](#mqtt-commands)
-<li>Modules </li>
-<li>Differences between smart and common version </li>
-<li>The reservoir </li>
-<li>Electronics </li>
-<li>Components </li>
-<li>Assembly </li>
-<li>Slicer settings </li>
-
-</ul> 
+- [FAQ](#faq)
 
 
 ## Watering Mechanism
 
-<img src="https://user-images.githubusercontent.com/82802996/116686545-40b8ea80-a9b4-11eb-888d-db138a499990.png" width="20%">
-
-Hydroknecht is based on a vertical rain-tower design which is supposably good for fast growth. Water is stored in a reservoir at the bottom of the tower from where it is pumped upwards to the top of the tower. The water at the top gets diverted and rains down onto the roots of the plants. The water is supplemented with nutrients and minerals since the plants dont have any soil to take those from. The plants themselves lie in netcups which are filled with rockwool or coconut coir which serves as a good substrate.
+Hydroknecht is based on a vertical rain-tower design which is good for fast growth. Water is stored in a reservoir at the bottom of the tower from where it is pumped upwards to the top of the tower. The water at the top gets diverted and rains down onto the roots of the plants. The water is supplemented with nutrients and minerals since the plants dont have any soil to take those from. The plants themselves lie in netcups which are filled with rockwool or coconut coir which serves as a good substrate.
 
 
 ## Modules 
@@ -38,26 +30,68 @@ The planter stores the magical water that will grow your plants. You can attach 
 ### Planter
 
 This module holds the netcups in place. Available in versions for three and five netcups. The netcups are custom with an inner diameter of 63 mm.
+<p>
+  <img src="https://github.com/robbrobb/Hydroknecht/blob/main/documentation/planter_3.png" alt="Planter 3" width="250"/>
+  <img src="https://github.com/robbrobb/Hydroknecht/blob/main/documentation/planter_5.png" alt="Planter 5" width="250"/>
+</p>
 
 ### Shower
 
 This module makes it rain. The watertube is passed through this module into the water spreader. The water is diverted by the spreader and then trickles down through the holes at the bottom.
+<p>
+  <img src="https://github.com/robbrobb/Hydroknecht/blob/main/documentation/shower.png" alt="Shower" width="250"/>
+  <img src="https://github.com/robbrobb/Hydroknecht/blob/main/documentation/water_disperser.png" alt="Water disperser" width="250"/>
+</p>
 
 ### Top
 
 Serves as a cover and anti-splash guard. You can also place electronics here or use it as a storage place.
+<p>
+  <img src="https://github.com/robbrobb/Hydroknecht/blob/main/documentation/top.png" alt="Shower" width="250"/>
+</p>
+
+## Printing Instructions
+The trickiest part to print is the reservoir, since this a part that you would not want leaking. You could use a bucket instead which will save you time and filament but that's not as visually appealing and might impact the stability of large towers. We suggest adding as many perimeters as you can, since that will help make the reservoir waterproof. For additional Methods have a look at [this PrusaPrinters Blog Post](https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/).
+
+## Assembly Instructions
+
+The modules are stackable and should bond together pretty neat without much force. If you want to secure the connection additionally, you can screw the modules together with an M3 Screw and Nut.
+
 
 ## PCB 
 
 ## MQTT-Commands
-
-## Assembly Instructions
-
-You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place.
-
-So the reservoir is a little bit tricky. You must get it water safe that it not leak. You can also use a bucket which helps to safe time and filament but you dont get the overall 
-iconic look for the Hydroponicsystem, also the stability is bad with huge towers so we decided to print it. You need to change a few things in prusa slicer. Prusa did a great Blog post about this theme. Here is  a link to it . [Blog Post](https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/)
-Also a great way to get water safe results is epoxy resin. It is a bit anoying to handle but it works good for make your reservoir water safe. The best options to smooth it with 
-chemicals like acetone. More Information about Water safe 3d prints are in the helpful blog post from prusaprinters.
+Pump Control
+```bash
+pump on           #turns the pump on
+pump off          #turns the pump off
+pump status       #returns the status of the pump over mqtt
+```
+Analog Sensor
+```bash
+analog            #returns the value of the currently connected analog sensor over mqtt
+```
+BME280 Sensor
+```bash
+bme280 temp       #returns the temperature of the bme280 sensor over mqtt
+bme280 pressure   #returns the temperature of the bme280 sensor over mqtt
+bme280 altitude   #returns the estimated altitude of the bme280 sensor over mqtt
+bme280 humidity   #returns the humidity of the bme280 sensor over mqtt
+```
+Halo Control
+```bash
+halo on           #turns the halo on
+halo off          #turns the halo off
+```
 
 ## FAQ
+
+### What's up with that name anyway?
+Hydro stands for Water, Knecht is the german word for a farm labourer. So Hydroknecht means Water-Farm-Labourer, sort of .. 
+
+### What are my minimum requirements for using Hydroknecht
+A bucket of water, a 3D-printer and a remote controlled power plug with a pump will get you somewhere. Oh, and plants. Lots of plants. 🌿
+
+## Future Stuff
+- Advanced documentation and PCB Files
+- Advanced base wich will allow you to use any kind of bucket as reservoir
