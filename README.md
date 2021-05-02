@@ -58,7 +58,19 @@ The trickiest part to print is the reservoir, since this a part that you would n
 The modules are stackable and should bond together pretty neat without much force. If you want to secure the connection additionally, you can screw the modules together with an M3 Screw and Nut.
 
 
-## PCB 
+## PCB
+
+The capabilities of Hydroknecht were designed around the ESP8266, a cheap microcontroller with integrated WiFi capabilities. Sadly the ESP8266 lacks in two areas which make it dependent on external circuitry. The single analog input and the dependency on 3.3V power. The results of the combat against these issues is the Hydroknecht PCB. It offers Support for
+- 5 Analog Sensors
+- Low-Cost PH-Sensor
+- 3 I²C-Devices (like the BME280 Sensor)
+- Small 12V pump
+- Digital-RGB lights (like the Adafruit Neopixels)
+- 12V, 5V and 3.3V Power
+
+I'll add the actual PCB later this week ...
+
+
 
 ## MQTT-Commands
 Pump Control
