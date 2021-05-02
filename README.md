@@ -27,7 +27,7 @@ This enables control over pumps and lights, aswell as the reception of data from
 Hydroknecht is based on a vertical rain-tower design which is supposably good for fast growth. Water is stored in a reservoir at the bottom of the tower from where it is pumped upwards to the top of the tower. The water at the top gets diverted and rains down onto the roots of the plants. The water is supplemented with nutrients and minerals since the plants dont have any soil to take those from. The plants themselves lie in netcups which are filled with rockwool or coconut coir which serves as a good substrate.
 
 
-## Modules
+## Modules 
 
 The modularity aspect of Hydroknecht allows you to design your own tower however you want. At a minimum you'll need a reservoir (or you could just use a bucket with a hole in the lid), a planter module and a shower module.
 
