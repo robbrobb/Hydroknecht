@@ -1,7 +1,7 @@
 # Hydroknecht 🌿
 
 Hydroknecht is a smart modular 3D-printed Hydroponic system. Based on a rain-tower design it can be built to fit multiple modules with multiple planters. One planter can fit plants with a base diameter of 6 cm. The tower is controlled by multiple sensors connected to an ESP8266 wich is connected via MQTT to a Node-RED enviroment.
-This enables control over pumps and lights, aswell as the reception of data from multiple analog and digital sensors. 
+This enables control over pumps and lights, aswell as the reception of data from multiple analog and digital sensors. For now you can find the print files [over here](https://www.prusaprinters.org/prints/65395-hydroknecht-smart-modular-hydroponic-system).
 
 ## Contents
 
