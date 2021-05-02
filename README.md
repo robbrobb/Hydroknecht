@@ -56,8 +56,7 @@ Serves as a cover and anti-splash guard. You can also place electronics here or 
 You stack them staggered so alway the first module and then the second and onand on. The angled parts are glue on the standard module. They hold the netcups in place.
 
 So the reservoir is a little bit tricky. You must get it water safe that it not leak. You can also use a bucket which helps to safe time and filament but you dont get the overall 
-iconic look for the Hydroponicsystem, also the stability is bad with huge towers so we decided to print it. You need to achange a few things in prusa slicer. Prusa did a great Blog 
-post about this theme. Here is  a link to it . [Blog Post](https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/)
+iconic look for the Hydroponicsystem, also the stability is bad with huge towers so we decided to print it. You need to change a few things in prusa slicer. Prusa did a great Blog post about this theme. Here is  a link to it . [Blog Post](https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/)
 Also a great way to get water safe results is epoxy resin. It is a bit anoying to handle but it works good for make your reservoir water safe. The best options to smooth it with 
 chemicals like acetone. More Information about Water safe 3d prints are in the helpful blog post from prusaprinters.
 
